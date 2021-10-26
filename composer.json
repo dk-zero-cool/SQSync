@@ -1,0 +1,6 @@
+{
+    "require": {
+        "imphp/base": "~1.2",
+        "imphp/util": "~1.1"
+    }
+}
